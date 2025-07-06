@@ -95,7 +95,6 @@ docs(README): clarify environment setup
 refactor(core): split large function into smaller ones
 test(api): add edge case tests for login
 ```
-
-...
+--- 
 
 🦊 **Renardis – Pour un numérique éthique, structuré et collaboratif.**
