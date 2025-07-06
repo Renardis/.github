@@ -99,4 +99,3 @@ test(api): add edge case tests for login
 
 🦊 **Renardis – Pour un numérique éthique, structuré et collaboratif.**
 
-test
